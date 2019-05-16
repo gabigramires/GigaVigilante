@@ -1,0 +1,12 @@
+C:\Users\digistar\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\AtualizacaoFirmware.csprojAssemblyReference.cache
+C:\Users\digistar\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\AtualizacaoFirmware.TelaVigilante.resources
+C:\Users\digistar\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\AtualizacaoFirmware.Properties.Resources.resources
+C:\Users\digistar\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\AtualizacaoFirmware.csproj.GenerateResource.cache
+C:\Users\digistar\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\AtualizacaoFirmware.csproj.CoreCompileInputs.cache
+C:\Users\digistar\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AtualizacaoFirmware.exe.config
+C:\Users\digistar\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AtualizacaoFirmware.exe
+C:\Users\digistar\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AtualizacaoFirmware.pdb
+C:\Users\digistar\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\AtualizacaoFirmware.exe
+C:\Users\digistar\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\AtualizacaoFirmware.pdb
+C:\Users\digistar\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\AtualizacaoFirmware.Terminal.resources
+C:\Users\digistar\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\AtualizacaoFirmware.ChooseList.resources
